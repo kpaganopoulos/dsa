@@ -1,8 +1,9 @@
 # dsa
-Homework 2
-Data Structures and Algorithms, September 2019
 
-Imperial College Business School
+## Homework 2
+### Data Structures and Algorithms, September 2019
+
+#### Imperial College Business School
 
 In the first "main" part of the assignment, you'll practice your skills on looping, lists, and functions in the context of analysing stock prices. The second "honours" part involves more challenging computational puzzles.
 
